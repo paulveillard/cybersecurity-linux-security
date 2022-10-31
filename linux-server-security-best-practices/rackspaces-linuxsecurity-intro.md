@@ -26,7 +26,7 @@ and makes them move on to a new target.
 - [SSH configuration options](#)
 - [Simple intrusion prevention](#)
 - [Intrusion detection](#)
-- 
+- [Keep your OS up to date (patching)](#)
 - [Account-level security](#)
 
 ### User management
