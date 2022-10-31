@@ -23,6 +23,7 @@ and makes them move on to a new target.
 - [User Management](#)
 - [Generate an SSH key pair](#)
 - [Linux SSH daemon configuration](#)
+- [SSH configuration options](#)
 - [Simple intrusion prevention](#)
 - [Intrusion detection](#)
 - 
