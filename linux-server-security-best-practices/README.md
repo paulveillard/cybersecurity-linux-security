@@ -17,4 +17,6 @@ This not only helps in reducing costs, you also get the opportunity to figure ou
 
 ## Medium Tier
 - Linode
-- 
+- Digital Ocean
+- UpCloud
+- Vultr
