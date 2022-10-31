@@ -27,6 +27,7 @@ and makes them move on to a new target.
 - [Simple intrusion prevention](#)
 - [Intrusion detection](#)
 - [Keep your OS up to date (patching)](#)
+- [Operating system end-of-life](#)
 - [Account-level security](#)
 
 ### User management
