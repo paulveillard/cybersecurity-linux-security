@@ -22,7 +22,8 @@ and makes them move on to a new target.
 ## Table of Contents
 - [User Management](#)
 - [Generate an SSH key pair](#)
-- 
+- [Simple intrusion prevention](#)
+- [Account-level security](#)
 
 ### User management
 
