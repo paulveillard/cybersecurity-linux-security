@@ -22,7 +22,10 @@ and makes them move on to a new target.
 ## Table of Contents
 - [User Management](#)
 - [Generate an SSH key pair](#)
+- [Linux SSH daemon configuration](#)
 - [Simple intrusion prevention](#)
+- [Intrusion detection](#)
+- 
 - [Account-level security](#)
 
 ### User management
