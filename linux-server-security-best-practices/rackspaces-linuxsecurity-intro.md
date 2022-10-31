@@ -18,6 +18,12 @@ helps prevent you and your business from being compromised. Performing these bas
 steps and hardening the security on your server discourages bad actors
 and makes them move on to a new target.
 
+
+## Table of Contents
+- [User Management](#)
+- [Generate an SSH key pair](#)
+- 
+
 ### User management
 
 By default, the root user is created as the first user on every Linux system.
