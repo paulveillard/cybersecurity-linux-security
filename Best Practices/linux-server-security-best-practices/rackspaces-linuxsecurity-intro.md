@@ -22,7 +22,7 @@ and makes them move on to a new target.
 ## Table of Contents
 - [User Management](#user-management)
 - [Generate an SSH key pair](#generate-an-ssh-key-pair)
-- [Linux SSH daemon configuration](#)
+- [Linux SSH daemon configuration](#linux-ssh-daemon-configuration)
 - [SSH configuration options](#)
 - [Simple intrusion prevention](#)
 - [Intrusion detection](#)
