@@ -26,7 +26,7 @@ and makes them move on to a new target.
 - [SSH configuration options](#ssh-configuration-options)
 - [Simple intrusion prevention](#simple-intrusion-prevention)
 - [Intrusion detection](#intrusion-detection)
-- [Keep your OS up to date (patching)](#keep-your-os-up-to-date)
+- [Keep your OS up to date (patching)](#keep-your-os-up-to-date-patching)
 - [Operating system end-of-life](#operating-system-end-of-life)
 - [Account-level security](#account-level-security)
 
