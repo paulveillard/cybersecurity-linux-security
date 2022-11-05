@@ -21,7 +21,7 @@ and makes them move on to a new target.
 
 ## Table of Contents
 - [User Management](#user-management)
-- [Generate an SSH key pair](#)
+- [Generate an SSH key pair](#generate-an-ssh-kwy-pair)
 - [Linux SSH daemon configuration](#)
 - [SSH configuration options](#)
 - [Simple intrusion prevention](#)
