@@ -173,7 +173,7 @@ If you performed these steps correctly, your user now has `sudo` access and can 
 If not executed properly, you get a message indicating that the user is not in the **sudoers** file
 when you attempt to authenticate.
 
-### Generate an SSH key pair
+### `Generate an SSH key pair`
 
 For a login method that is more secure than using a password, create an SSH key pair to
 use with the user that you previously created. These instructions work with any Linux
@@ -214,7 +214,7 @@ to generate and add the SSH key pair.
 At this point, you have added `ssh-key` and password authentication for the user. The next
 section goes over optional steps on how to disable password authentication. 
 
-### Linux SSH daemon configuration
+### `Linux SSH daemon configuration`
 
 Now that you have a new user with `sudo` permissions and an SSH key
 pair, you can work with the SSH daemon (server) configuration to improve security.
@@ -405,7 +405,7 @@ The `-p` option specifies the port, and the `-i` option specifies the private ke
 
 If you're connecting from a Windows desktop, when you create the connection in [PuTTY](/support/how-to/connecting-to-linux-from-windows-by-using-putty), you can specify the port number and a private key.
 
-### Simple intrusion prevention
+### `Simple intrusion prevention`
 
 Most would-be intruders run multiple attacks against the same port to try to
 find something that they can exploit in the software running on that port.
@@ -479,7 +479,7 @@ on your server, use the following steps:
         sudo chkconfig fail2ban on
 
 
-### Intrusion detection
+### `Intrusion detection`
 
 An intrusion detection system (IDS) can help an administrator monitor systems
 for suspicious activity and possible exploits.  An IDS is more robust than a
@@ -495,7 +495,7 @@ If you suspect that a system is already compromised, you can investigate with
 procedures such as [checking for backdoors and intruders](/support/how-to/check-for-a-security-compromise-back-doors-and-intruders)
 and [rescue mode investigation](/support/how-to/check-for-a-security-compromise-rescue-mode-investigation).
 
-### Keep your OS up to date (patching)
+### `Keep your OS up to date (patching)`
 
 Keeping your kernel, packages, and dependencies up-to-date is very important, especially for security-related modules and packages. Some updates, such as kernel updates, require you to reboot your server. You should schedule maintenances to take place during times that are least disruptive to users because these maintenances cause a short period of downtime. 
 
@@ -510,7 +510,7 @@ To check for and install updates on CentOS, Red Hat, and Fedora systems, run the
 
     sudo yum update
 
-### Operating system end-of-life
+### `Operating system end-of-life`
 
 Find out when the Linux distribution release that you are running on
 your servers reaches its end-of-life (EOL). When a release reaches its EOL, the
