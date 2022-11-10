@@ -19,7 +19,7 @@ steps and hardening the security on your server discourages bad actors
 and makes them move on to a new target.
 
 
-## Table of Contents
+## `Table of Contents`
 - [User Management](#user-management)
 - [Generate an SSH key pair](#generate-an-ssh-key-pair)
 - [Linux SSH daemon configuration](#linux-ssh-daemon-configuration)
