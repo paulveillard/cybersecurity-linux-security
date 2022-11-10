@@ -30,7 +30,7 @@ and makes them move on to a new target.
 - [Operating system end-of-life](#operating-system-end-of-life)
 - [Account-level security](#account-level-security)
 
-### User management
+### `User management`
 
 By default, the root user is created as the first user on every Linux system.
 You should disable it via Secure Shell (SSH). Disabling this root user via SSH
