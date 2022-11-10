@@ -528,7 +528,7 @@ set to reach its EOL:
 -   Debian: [https://wiki.debian.org/DebianReleases](https://wiki.debian.org/DebianReleases)
 
 
-### Account-level security
+### `Account-level security`
 
 Although securing your servers is an essential part of operations on the Internet,
 securing your account is also necessary. Your account name, password, and API
