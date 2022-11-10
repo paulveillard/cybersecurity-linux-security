@@ -8,14 +8,14 @@ Moreover, many cloud server providers also offer free credits to try their platf
 This not only helps in reducing costs, you also get the opportunity to figure out whether a certain platform suits your needs and skills or not.
 
 
-## Top Tier
+## `Top Tier`
  - AWS
  - Microsoft
  - Google Cloud Platform
  - Alibaba
  - IBM
 
-## Medium Tier
+## `Medium Tier`
 - Linode
 - Digital Ocean
 - UpCloud
